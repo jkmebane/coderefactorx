@@ -17,3 +17,17 @@ THEN I find a concise, descriptive title
 *HTML
 *CSS
 
+## Actions
+*change out div elements
+*add <alt> attributes to images 
+*added semantic elements to keep from having <div> soup !! 
+*restructure css to fall in sequential  order
+*added a slight touch to website to make it more appealing and accessible 
+  
+## Resources
+  https://developer.mozilla.org/
+  https://www.w3schools.com/
+  
+  ## My Sites
+  
+  
