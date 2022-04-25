@@ -25,9 +25,9 @@ THEN I find a concise, descriptive title
 *added a slight touch to website to make it more appealing and accessible 
   
 ## Resources
-  https://developer.mozilla.org/
-  https://www.w3schools.com/
+  https://developer.mozilla.org    https://www.w3schools.com/
   
   ## My Sites
+  
   
   
